@@ -1,6 +1,6 @@
 ## The Heights Dance Studio
 
-An application built for a local dance school in New York City. 
+I built this application for a local dance school in New York City. 
 
 **Link to project:** https://theheightsdancestudio.netlify.app/
 
